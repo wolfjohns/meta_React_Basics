@@ -1,7 +1,7 @@
 
 function Card(props) {
     return (
-        <div className>
+        <div className="card">
             <h2>
                 {props.h2}
             </h2>
